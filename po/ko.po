@@ -134,7 +134,7 @@ msgstr "가장친한친구한명을소개해주세요"
 
 #: .V4_INTRO_PAGE.questionList[12].text
 msgid "지금 딱 눈에 들어온 물건은 무엇인가요?<br>그 물건을 언제부터 어떻게 가지게 되었는지 이야기해주세요."
-msgstr ""
+msgstr "지금딱눈에들어온물건은무었이요"
 
 #: .V4_INTRO_PAGE.questionList[13].text
 msgid "딱 한번 타임머신을 탈 수 있는 기회가 주어진다면 언제로 가보고 싶으신가요?"
@@ -146,7 +146,7 @@ msgstr ""
 
 #: .V4_INTRO_PAGE.questionList[15].text
 msgid "님! 자신에게 보내는 영상편지라고 생각하고 응원의 말을 해주세요!"
-msgstr ""
+msgstr "님!"
 
 #: .V4_INTRO_PAGE.text_title4
 msgid "잘 하셨어요! 이제 면접을 시작해 볼까요?<br>응답한 영상을 보시고 자신의 모습을 점검해 보세요."
