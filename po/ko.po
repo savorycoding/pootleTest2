@@ -130,7 +130,7 @@ msgstr ""
 
 #: .V4_INTRO_PAGE.questionList[11].text
 msgid "가장 친한 친구 한 명을 소개해 주세요!"
-msgstr ""
+msgstr "가장친한친구한명을소개해주세요"
 
 #: .V4_INTRO_PAGE.questionList[12].text
 msgid "지금 딱 눈에 들어온 물건은 무엇인가요?<br>그 물건을 언제부터 어떻게 가지게 되었는지 이야기해주세요."
