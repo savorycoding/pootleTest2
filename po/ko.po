@@ -94,7 +94,7 @@ msgstr ""
 
 #: .V4_INTRO_PAGE.questionList[2].text2
 msgid "님은 어떤 계절을 가장 좋아하시나요?"
-msgstr ""
+msgstr "저는요"
 
 #: .V4_INTRO_PAGE.questionList[3].text
 msgid "영화를 좋아하시나요? 가장 좋아하는 영화에 대해 이야기해주세요!"
