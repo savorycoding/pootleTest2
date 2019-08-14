@@ -70,7 +70,7 @@ msgstr ""
 
 #: .V4_INTRO_PAGE.text_title3
 msgid "몸풀기 단계이므로 답변은 결과 분석에 반영되지 않습니다.<br>한 번 해보면 떨지 않고 잘할 수 있을 거예요."
-msgstr ""
+msgstr "몸풀었슴"
 
 #: .V4_INTRO_PAGE.questionList[0].text1
 msgid "저는 올해 꼭 장롱면허에서 탈출할 거에요!<br> "
