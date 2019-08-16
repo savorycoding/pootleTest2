@@ -33,7 +33,7 @@ msgstr ""
 
 #: .INTERVIEW_SPEECH_RECOGNITION[2].key
 msgid "넵"
-msgstr ""
+msgstr "넹"
 
 #: .INTERVIEW_SPEECH_RECOGNITION[2].value
 msgctxt ".INTERVIEW_SPEECH_RECOGNITION[2].value"
@@ -46,7 +46,7 @@ msgstr "그럼 지금부터 온라인 AI 면접을 시작하겠습니다. ㅎㅎ
 
 #: .V4_INTRO_PAGE.list[0].text
 msgid "면접은 생각시간과 답변시간으로 구성되어있습니다."
-msgstr ""
+msgstr "면접은요"
 
 #: .V4_INTRO_PAGE.list[0].image
 msgid "3d/preTest_img1.png"
@@ -74,7 +74,7 @@ msgstr "몸풀었슴"
 
 #: .V4_INTRO_PAGE.questionList[0].text1
 msgid "저는 올해 꼭 장롱면허에서 탈출할 거에요!<br> "
-msgstr ""
+msgstr "저도올해장롱입니다"
 
 #: .V4_INTRO_PAGE.questionList[0].text2
 msgid "님은 올해 꼭 이루고 싶은 목표가 있으신가요?"
